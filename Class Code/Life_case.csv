@@ -1,0 +1,41 @@
+Case,Activity,Person_A,Person_B
+Elderly parent care,Hospital appointment booking,14,46
+Elderly parent care,Medication refill tracking,58,18
+Elderly parent care,Insurance claim paperwork,9,41
+Elderly parent care,Weekly grocery delivery setup,42,11
+Elderly parent care,Calling clinic or pharmacy,21,39
+Elderly parent care,Transportation to appointments,7,66
+Elderly parent care,Meal prep for parent,63,8
+Elderly parent care,Home safety checks,18,52
+Small online shop,Product photo editing,71,22
+Small online shop,Packaging orders,96,38
+Small online shop,Replying to customer messages,84,17
+Small online shop,Supplier price comparison,27,61
+Small online shop,Shipping label printing,39,73
+Small online shop,Monthly sales spreadsheet,16,58
+Small online shop,Stock count,54,49
+Small online shop,Return and refund handling,24,37
+Apartment community,Reporting maintenance issues,11,64
+Apartment community,Reading management notices,57,19
+Apartment community,Paying utility bills,31,44
+Apartment community,Scheduling elevator use,8,29
+Apartment community,Sorting delivery messages,48,12
+Apartment community,Attending residents meeting,5,34
+Apartment community,Checking parking registration,9,51
+Apartment community,Coordinating noise complaints,22,33
+Pet care,Morning walk,18,82
+Pet care,Evening walk,34,69
+Pet care,Buying pet food,63,25
+Pet care,Vet appointment scheduling,51,13
+Pet care,Cleaning litter or pads,77,19
+Pet care,Grooming appointment drop-off,12,44
+Pet care,Training practice,20,58
+Pet care,Updating vaccination records,38,11
+Shared travel planning,Comparing flight options,17,64
+Shared travel planning,Booking accommodation,24,55
+Shared travel planning,Planning restaurant list,72,15
+Shared travel planning,Budget tracking,19,47
+Shared travel planning,Packing checklist,68,21
+Shared travel planning,Route and transit planning,12,61
+Shared travel planning,Document and passport checks,41,32
+Shared travel planning,Photo backup after trip,53,18
